@@ -7,10 +7,6 @@ This project implements an **Image Captioning System** using deep learning, wher
 - **CNN (InceptionV3)** for image feature extraction.  
 - **LSTM-based sequence model** for caption generation.  
 
-Developed as part of the **EC9170 Deep Learning** module by:  
-- **Your Name** (Registration No: XXX)  
-- **Mihiri Shanika** (Registration No: XXX)  
-
 ---
 
 ## **🚀 Features**  
